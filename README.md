@@ -2,8 +2,15 @@
 
 Some Description!
 
-## Subheader
+lets dosomethig meaningful
 
 watch tutorialon youtube/
 
 forever in my min
+today is a better day for all of us at ipinloju
+fammily
+watch tutorialon youtube/
+
+## local development
+
+1. open index.html in your browser.
